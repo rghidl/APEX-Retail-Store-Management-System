@@ -7,7 +7,7 @@ Retail Store System app, built using APEX
 <img width="522" height="660" alt="Screenshot 2026-07-29 095259" src="https://github.com/user-attachments/assets/815d4e15-f93a-42a3-a132-c707234b1b55" />
 
 
-##Interactive Reports
+Interactive Reports
 <img width="1919" height="807" alt="Screenshot 2026-07-29 103258" src="https://github.com/user-attachments/assets/a692c59c-0047-46ea-9e1a-c6ceb2e3f554" />
 <img width="1919" height="834" alt="Screenshot 2026-07-29 103318" src="https://github.com/user-attachments/assets/eafefb18-5cf0-4a47-86c2-1dba76a1faaf" />
 
