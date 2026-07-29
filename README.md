@@ -4,11 +4,21 @@ Retail Store System app, built using APEX
 ## App Screenshots
 
 ### Dashboard & Analytics
-<img width="977" height="786" alt="Screenshot 2026-07-20 114304" src="https://github.com/user-attachments/assets/f4a7625b-2de8-4af3-91dd-828648ddf8f4" />
-<img width="1919" height="881" alt="Screenshot 2026-07-20 114407" src="https://github.com/user-attachments/assets/a3a2d374-7b1d-4251-a8e3-b90cd4ea485d" />
-<img width="1919" height="888" alt="Screenshot 2026-07-20 114356" src="https://github.com/user-attachments/assets/469f258a-4a90-4c0c-8dbb-21d0e46e81b1" />
-<img width="1919" height="896" alt="Screenshot 2026-07-20 114343" src="https://github.com/user-attachments/assets/353c849c-ab37-4f39-84ec-cb95af1400e6" />
-<img width="1919" height="799" alt="Screenshot 2026-07-20 114421" src="https://github.com/user-attachments/assets/63361255-a871-49cc-98da-40a219e5b002" />
-<img width="1919" height="800" alt="Screenshot 2026-07-20 114435" src="https://github.com/user-attachments/assets/de16f8b3-4721-46aa-9f0f-154c9230aa2b" />
-<img width="1919" height="802" alt="Screenshot 2026-07-20 114447" src="https://github.com/user-attachments/assets/17f6976d-d199-4461-81dd-daf17111d2ab" />
+<img width="522" height="660" alt="Screenshot 2026-07-29 095259" src="https://github.com/user-attachments/assets/815d4e15-f93a-42a3-a132-c707234b1b55" />
+
+###Interactive Reports
+<img width="1919" height="807" alt="Screenshot 2026-07-29 103258" src="https://github.com/user-attachments/assets/a692c59c-0047-46ea-9e1a-c6ceb2e3f554" />
+<img width="1919" height="834" alt="Screenshot 2026-07-29 103318" src="https://github.com/user-attachments/assets/eafefb18-5cf0-4a47-86c2-1dba76a1faaf" />
+
+###Master Detail Screens
+<img width="1058" height="824" alt="Screenshot 2026-07-29 103417" src="https://github.com/user-attachments/assets/489db24b-b04b-4ff3-89a1-127ec6ad735c" />
+
+###Search Screens
+<img width="1083" height="822" alt="Screenshot 2026-07-29 103501" src="https://github.com/user-attachments/assets/09e138ac-88b5-426d-b013-66dc91ecedf9" />
+<img width="1072" height="581" alt="Screenshot 2026-07-29 103514" src="https://github.com/user-attachments/assets/6bfb1f62-1c92-4d42-9f4c-9f5b37f1967d" />
+
+
+###Products Hierarchy
+<img width="1074" height="831" alt="Screenshot 2026-07-29 103445" src="https://github.com/user-attachments/assets/02b7aacb-9730-4124-a4a6-ab646d1dd2b5" />
+
 
